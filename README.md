@@ -31,7 +31,6 @@ Getting Started
 git clone https://github.com/aamalrxj/Lung-Node-Detection.git
 cd Lung-Node-Detection
 
-
 2. Create a virtual environment
 python -m venv venv
 
@@ -39,10 +38,8 @@ Activate it:
 venv\Scripts\activate
 source venv/bin/activate
 
-
 3. Install dependencies
 pip install tensorflow flask numpy opencv-python
-
 
 4. Prepare the dataset
 Organize the CT scan images into training and validation directories.

@@ -81,7 +81,4 @@ Future Improvements
 - Add stronger input validation and secure image handling.
 - Expand testing using independent CT scan datasets.
 
-
----
-
-*An academic deep learning project exploring medical image classification using CNNs and Python.*
+Demo Video - https://drive.google.com/file/d/1HR7qxnpUtUO3Fq9lwKn9DOl8nfHWMmd7/view?usp=drive_link

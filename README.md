@@ -81,6 +81,6 @@ Future Improvements
 - Add stronger input validation and secure image handling.
 - Expand testing using independent CT scan datasets.
 
-![alt text]https://github.com/aamalrxj/Lung-Node-Detection/blob/main/Copy%20of%20Screenshot%202025-05-01%20230743.png
-![alt text]https://github.com/aamalrxj/Lung-Node-Detection/blob/main/Copy%20of%20Screenshot%202025-05-01%20231045.png
+![alt text](https://github.com/aamalrxj/Lung-Node-Detection/blob/main/Copy%20of%20Screenshot%202025-05-01%20230743.png)
+![alt text](https://github.com/aamalrxj/Lung-Node-Detection/blob/main/Copy%20of%20Screenshot%202025-05-01%20231045.png)
 Demo Video - https://drive.google.com/file/d/1HR7qxnpUtUO3Fq9lwKn9DOl8nfHWMmd7/view?usp=drive_link
